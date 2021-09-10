@@ -27,5 +27,7 @@
  	<a href="https://www.twitch.tv/c4recalive" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatoal4nn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alan-akira-sato-alves-7a18b01aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+ 
   ![Snake animation](https://github.com/al4nn/al4nn/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
