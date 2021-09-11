@@ -3,8 +3,7 @@
 
 - 🔭 Estou trabalhando com Front-End
 - 🌱 Estudando VueJS
-- 📫 Contate-me por email: contatoal4nn@gmail.com
-- 😄 Pronomes: ele/dele
+- 📫 Email: contatoal4nn@gmail.com
 
  <div>
   <a href="https://github.com/al4nn">
