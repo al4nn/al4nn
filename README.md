@@ -4,7 +4,7 @@
 - 🔭 Estou trabalhando com Front-End
 - 🌱 Estudando VueJS
 - 📫 Email: contatoal4nn@gmail.com
-- 💻 Portfólio: [link](bit.ly/393Lt09)
+- 💻 Portfólio: [link](https://al4nn.github.io/Meu-Site/)
 
  <div>
   <a href="https://github.com/al4nn">
