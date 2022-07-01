@@ -2,7 +2,7 @@
 #### Seja bem-vindo(a) ao meu repositório do GitHub!
 
 - 🔭 Estou trabalhando com Front-End
-- 🌱 Estudando VueJS
+- 🌱 Estudando PHP
 - 📫 Email: contatoal4nn@gmail.com
 - 💻 Portfólio: [link](https://al4nn.github.io/Portfolio/)
 
