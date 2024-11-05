@@ -22,7 +22,7 @@ Eu sou um desenvolvedor front-end e atualmente estou estudando back-end.
 - :brain: Estou aprendendo back-end (PHP).
 - :mailbox: Entre em contato comigo pelo email: **alan.sato.dev@gmail.com**
 
-## Objetivos 
+## Objetivos :dart:
 
 - **Desenvolvimento pessoal e profissional:** Aprimorar minhas habilidades de comunicação e superar minha timidez, buscando uma postura mais confiante em reuniões e apresentações.
 - **Desenvolvimento full-stack:** Tornar-me um desenvolvedor full-stack completo, com foco em APIs REST e bancos de dados.
