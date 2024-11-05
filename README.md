@@ -15,7 +15,7 @@
 Eu sou um desenvolvedor front-end e atualmente estou estudando back-end.
 
 <p align="center">
-<img src="https://i.ibb.co/yY3VB3G/IMG-20240901-WA0250.jpg" style="width: 300px; border-radius: 50%;">
+<img src="https://i.ibb.co/yY3VB3G/IMG-20240901-WA0250.jpg" style="width: 300px; border-radius: 150px;">
 </p>
 
 - :man_technologist: Trabalho atualmente na **[Metanoia](https://www.mtn.com.br/)** como desenvolvedor.
