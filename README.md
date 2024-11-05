@@ -4,6 +4,8 @@
 
 :small_blue_diamond: [Sobre mim](#sobre-mim-rocket)
 
+:small_blue_diamon: [Objetivos](#objetivos)
+
 :small_blue_diamond: [Habilidades](#habilidades-hammer_and_wrench)
 
 :small_blue_diamond: [Cursos](#cursos-books)
@@ -29,7 +31,7 @@ Eu sou um desenvolvedor front-end e atualmente estou estudando back-end.
 - **Domínio de tecnologias específicas:** Fortalecer minhas habilidades em PHP, MySQL, MongoDB, JavaScript, Nuxt.js, Vue.js e aprender React.js.
 - **Desenvolvimento de projetos práticos:** Criar um sistema de gestão de estoque, um sistema de caixa para supermercados e um site para serigrafia como projetos de portfólio.
 
-### Habilidades :hammer_and_wrench:
+## Habilidades :hammer_and_wrench:
 
 <p align="center">
 <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
