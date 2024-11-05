@@ -4,7 +4,7 @@
 
 :small_blue_diamond: [Sobre mim](#sobre-mim-rocket)
 
-:small_blue_diamon: [Objetivos](#objetivos)
+:small_blue_diamond: [Objetivos](#objetivos)
 
 :small_blue_diamond: [Habilidades](#habilidades-hammer_and_wrench)
 
