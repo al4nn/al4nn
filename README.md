@@ -3,7 +3,9 @@
 ## Tópicos
 
 :small_blue_diamond: [Sobre mim](#sobre-mim-rocket)
+
 :small_blue_diamond: [Habilidades](#habilidades-hammer_and_wrench)
+
 :small_blue_diamond: [Cursos](#cursos-books)
 
 ## Sobre mim :rocket:
