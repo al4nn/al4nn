@@ -75,6 +75,10 @@ Cursos da plataforma **https://b7web.com.br/**.
 
 Ainda não iniciei nenhum dos cursos listados, pois estou focado em terminar o **Curso Desenvolvimento Web Completo** da [**Danki Code**](https://github.com/al4nn/danki-code).
 
+#### Concluídos
+
+-   **Docker** - 100%
+
 ##### A ser feito
 
 -   **HTML5 e CSS3** - 0% (Não Iniciado)
@@ -93,6 +97,5 @@ Ainda não iniciei nenhum dos cursos listados, pois estou focado em terminar o *
 -   **NextJS** - 0% (Não Iniciado)
 -   **VueJS** - 0% (Não Iniciado)
 -   **Bootstrap 4** - 0% (Não Iniciado)
--   **Docker** - 0% (Não Iniciado)
 -   **Firebase** - 0% (Não Iniciado)
 -   **Sass** - 0% (Não Iniciado)
