@@ -59,7 +59,7 @@ Atualmente, estou fazendo o **Curso Desenvolvimento Web Completo**.
 
 ##### Cursando
 
-- **Curso Desenvolvimento Web Completo** - 25%
+- **Curso Desenvolvimento Web Completo** - 26%
 
 ##### A ser feito
 
