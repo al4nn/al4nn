@@ -45,7 +45,7 @@ Eu sou um desenvolvedor front-end e atualmente estou estudando back-end.
 
 ## Cursos :books:
 
-#### [Danki Code](https://github.com/al4nn/danki-code)
+#### [Danki Code](https://github.com/al4nn?tab=repositories&q=danki+code&type=&language=&sort=)
 
 Cursos feitos pela plataforma **https://cursos.dankicode.com/**.
 
@@ -69,7 +69,7 @@ Atualmente, estou fazendo o **Curso Desenvolvimento Web Completo**.
 - **Curso Desenvolvimento Web 2.0** - 0% (Não Iniciado)
 - **Curso JavaScript Completo** - 0% (Não Iniciado)
 
-#### [b7web](https://github.com/al4nn/b7web)
+#### [b7web](https://github.com/al4nn?tab=repositories&q=b7web&type=&language=&sort=)
 
 Cursos da plataforma **https://b7web.com.br/**.
 
