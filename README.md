@@ -38,7 +38,7 @@ Eu sou um desenvolvedor front-end e atualmente estou estudando back-end.
 <img  src="https://img.shields.io/badge/CSS3-004CE8?style=for-the-badge&logo=css3&logoColor=white"/>
 <img  src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img  src="https://img.shields.io/badge/Vue.js-1A1A1A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-<img  src="https://img.shields.io/badge/Nuxt.js-020420?style=for-the-badge&logo=nuxtdotjs&logoColor=00c16a"/>
+<img  src="https://img.shields.io/badge/Nuxt.js-020420?style=for-the-badge&logo=nuxt&logoColor=00c16a"/>
 <img  src="https://img.shields.io/badge/PHP-7B7FB5?style=for-the-badge&logo=php&logoColor=white"/>
 <img  src="https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
