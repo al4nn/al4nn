@@ -54,6 +54,8 @@ Atualmente, estou fazendo o **Curso Desenvolvimento Web Completo**.
 ##### Concluídos 
 
 - [**Curso Webmaster Front-End Completo** :white_check_mark: (Clique aqui para ver o certificado)](https://bit.ly/40GhxmI)
+- [**Curso Web Design Express** :white_check_mark: (Clique aqui para ver o certificado)](bit.ly/3YL3cDa)
+- [**Curso PHP Jedai** :white_check_mark: (Clique aqui para ver o certificado)](bit.ly/3Cwr8m2)
 
 ##### Cursando
 
